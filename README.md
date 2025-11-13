@@ -1,14 +1,10 @@
 # 💫 About Me
-* 🔭 I’m currently working on building backend skills with C# and .NET
-* 👯 I’m looking to collaborate on projects using Vue.js and .NET
-* 🤝 I’m looking for help with advanced .NET concepts
-* 🌱 I’m learning .NET Core and Entity Framework
-* 💬 Ask me about Vue.js and JavaScript
-* ⚡ Fun fact: I learn faster when I build small tools
-
-<p align="center">
-<img src="https://github.com/FaroukM2/FaroukM2/blob/main/banner.png" />
-</p>
+* 🔭 I’m currently working on building my backend skills with C# and .NET.
+* 👯 I’m looking to collaborate on projects using Vue.js and .NET.
+* 🤝 I’m looking for help with advanced .NET concepts and best practices.
+* 🌱 I’m learning .NET Core and Entity Framework.
+* 💬 Ask me about Vue.js and JavaScript.
+* ⚡ Fun fact: I learn faster when I build small tools.
 
 ## 🌐 Socials
 <p align="center">
@@ -32,24 +28,10 @@
 </a>
 </p>
 
-## Highlights
-- Vue.js experience
-- Full stack direction with .NET
-- Strong frontend background
-- Building projects to improve backend skills
-
-## Projects
-- Portfolio
-- Vue shop
-- API experiments with .NET
-
-## Next Step
-- Build full stack project with .NET and Vue
-
 ## 💻 Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -77,6 +59,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukM2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=FaroukM2&icon=0&color=0" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=FaroukM2&icon=0&color=0)](https://visitcount.itsvg.in)
