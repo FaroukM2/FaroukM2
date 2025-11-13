@@ -2,17 +2,31 @@
 * 🔭 I’m currently working on building my backend skills with C# and .NET.
 * 👯 I’m looking to collaborate on projects using Vue.js and .NET.
 * 🤝 I’m looking for help with advanced .NET concepts and best practices.
-* 🌱 I’m currently learning .NET Core and Entity Framework.
-* 💬 Ask me about Vue.js, JavaScript, and anything related to Frontend development.
-* ⚡ Fun fact: I enjoy learning new tech through small practical projects.
+* 🌱 I’m learning .NET Core and Entity Framework.
+* 💬 Ask me about Vue.js and JavaScript.
+* ⚡ Fun fact: I learn faster when I build small tools.
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/1242149851001786468)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1A2nyn3LTp/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/farouk_mohamed_96?igsh=MXVjczR5Nm53YWY3OA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-mohamed10)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=TikTok&logoColor=white)](https://www.tiktok.com/@faroukmohamed825?_r=1&_t=ZS-91NPlYpzpOa)
-[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/farouk81220?t=ZtwFwcfFq4pqmNF7MzzmFw&s=09)
+<p align="center">
+<a href="https://discord.gg/1242149851001786468">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/share/1A2nyn3LTp/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/farouk_mohamed_96?igsh=MXVjczR5Nm53YWY3OA==">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/farouk-mohamed10">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@faroukmohamed825?_r=1&_t=ZS-91NPlYpzpOa">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://x.com/farouk81220?t=ZtwFwcfFq4pqmNF7MzzmFw&s=09">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+</p>
 
 ## 💻 Tech Stack
 <p align="center">
